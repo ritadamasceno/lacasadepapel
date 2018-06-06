@@ -800,7 +800,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/maxresdefault-1280x720.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -815,8 +815,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/ce7f62ab3734debc5e300d9b786913e91de7c222-1024x576.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/casa-de-papel-atraco1311809f-destaque-2col-960x540.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
